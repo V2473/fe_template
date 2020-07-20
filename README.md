@@ -1,0 +1,1 @@
+Teamplate for new projects
